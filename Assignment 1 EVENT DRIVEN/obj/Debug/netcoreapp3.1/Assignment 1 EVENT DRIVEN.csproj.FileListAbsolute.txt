@@ -1,0 +1,16 @@
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\bin\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.exe
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\bin\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.deps.json
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\bin\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.runtimeconfig.json
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\bin\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.runtimeconfig.dev.json
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\bin\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.dll
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\bin\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.pdb
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\obj\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.csprojAssemblyReference.cache
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\obj\Debug\netcoreapp3.1\Assignment_1_EVENT_DRIVEN.Form1.resources
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\obj\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.csproj.GenerateResource.cache
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\obj\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.AssemblyInfoInputs.cache
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\obj\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.AssemblyInfo.cs
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\obj\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.csproj.CoreCompileInputs.cache
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\obj\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.dll
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\obj\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.pdb
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\obj\Debug\netcoreapp3.1\Assignment 1 EVENT DRIVEN.genruntimeconfig.cache
+C:\Users\saki2\Desktop\Assignment 1 EVENT DRIVEN\Assignment 1 EVENT DRIVEN\obj\Debug\netcoreapp3.1\Assignment_1_EVENT_DRIVEN.Properties.Resources.resources
